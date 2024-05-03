@@ -1,0 +1,290 @@
+[
+    {
+      "name": "United States",
+      "population_data": [
+        {"year": 2015, "population": 321418820},
+        {"year": 2016, "population": 323127513},
+        {"year": 2017, "population": 325719178},
+        {"year": 2018, "population": 327167439},
+        {"year": 2019, "population": 328239523},
+        {"year": 2020, "population": 331002651},
+        {"year": 2021, "population": 333986314}
+      ]
+    },
+    {
+      "name": "China",
+      "population_data": [
+        {"year": 2015, "population": 1376049000},
+        {"year": 2016, "population": 1378665000},
+        {"year": 2017, "population": 1386395000},
+        {"year": 2018, "population": 1392730000},
+        {"year": 2019, "population": 1397715000},
+        {"year": 2020, "population": 1402384000},
+        {"year": 2021, "population": 1405498000}
+      ]
+    },
+    {
+      "name": "India",
+      "population_data": [
+        {"year": 2015, "population": 1311050527},
+        {"year": 2016, "population": 1324517249},
+        {"year": 2017, "population": 1338676785},
+        {"year": 2018, "population": 1352642280},
+        {"year": 2019, "population": 1366417754},
+        {"year": 2020, "population": 1380004385},
+        {"year": 2021, "population": 1393409038}
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "population_data": [
+        {"year": 2015, "population": 258316051},
+        {"year": 2016, "population": 261115456},
+        {"year": 2017, "population": 263991379},
+        {"year": 2018, "population": 267026366},
+        {"year": 2019, "population": 270625568},
+        {"year": 2020, "population": 274999791},
+        {"year": 2021, "population": 279535084}
+      ]
+    },
+    {
+      "name": "Pakistan",
+      "population_data": [
+        {"year": 2015, "population": 199085847},
+        {"year": 2016, "population": 201995540},
+        {"year": 2017, "population": 204924861},
+        {"year": 2018, "population": 207906209},
+        {"year": 2019, "population": 210797836},
+        {"year": 2020, "population": 213282724},
+        {"year": 2021, "population": 216565318}
+      ]
+    },
+    {
+      "name": "Brazil",
+      "population_data": [
+        {"year": 2015, "population": 207847528},
+        {"year": 2016, "population": 209567920},
+        {"year": 2017, "population": 211243220},
+        {"year": 2018, "population": 212926660},
+        {"year": 2019, "population": 214544041},
+        {"year": 2020, "population": 216054943},
+        {"year": 2021, "population": 217336582}
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "population_data": [
+        {"year": 2015, "population": 182201962},
+        {"year": 2016, "population": 186053386},
+        {"year": 2017, "population": 189916001},
+        {"year": 2018, "population": 193907010},
+        {"year": 2019, "population": 197957431},
+        {"year": 2020, "population": 202014858},
+        {"year": 2021, "population": 206139587}
+      ]
+    },
+    {
+      "name": "Bangladesh",
+      "population_data": [
+        {"year": 2015, "population": 160995642},
+        {"year": 2016, "population": 162951560},
+        {"year": 2017, "population": 164952739},
+        {"year": 2018, "population": 166303498},
+        {"year": 2019, "population": 167439109},
+        {"year": 2020, "population": 168415757},
+        {"year": 2021, "population": 169660846}
+      ]
+    },
+    {
+      "name": "Russia",
+      "population_data": [
+        {"year": 2015, "population": 144096812},
+        {"year": 2016, "population": 143975923},
+        {"year": 2017, "population": 143989754},
+        {"year": 2018, "population": 144477859},
+        {"year": 2019, "population": 145734038},
+        {"year": 2020, "population": 146745098},
+        {"year": 2021, "population": 146866000}
+      ]
+    },
+    {
+      "name": "Mexico",
+      "population_data": [
+        {"year": 2015, "population": 126190788},
+        {"year": 2016, "population": 127540423},
+        {"year": 2017, "population": 128932753},
+        {"year": 2018, "population": 130262216},
+        {"year": 2019, "population": 131560641},
+        {"year": 2020, "population": 132740772},
+        {"year": 2021, "population": 133935260}
+      ]
+    },
+    {
+      "name": "Japan",
+      "population_data": [
+        {"year": 2015, "population": 127094745},
+        {"year": 2016, "population": 126994511},
+        {"year": 2017, "population": 126785797},
+        {"year": 2018, "population": 126529100},
+        {"year": 2019, "population": 126264931},
+        {"year": 2020, "population": 125880000},
+        {"year": 2021, "population": 125710000}
+      ]
+    },
+    {
+      "name": "Ethiopia",
+      "population_data": [
+        {"year": 2015, "population": 99390750},
+        {"year": 2016, "population": 101853268},
+        {"year": 2017, "population": 104957438},
+        {"year": 2018, "population": 108158163},
+        {"year": 2019, "population": 111481534},
+        {"year": 2020, "population": 114963588},
+        {"year": 2021, "population": 118646111}
+      ]
+    },
+    {
+      "name": "Philippines",
+      "population_data": [
+        {"year": 2015, "population": 101716710},
+        {"year": 2016, "population": 103320222},
+        {"year": 2017, "population": 104983726},
+        {"year": 2018, "population": 106651922},
+        {"year": 2019, "population": 108116615},
+        {"year": 2020, "population": 109581078},
+        {"year": 2021, "population": 111046913}
+      ]
+    },
+    {
+      "name": "Egypt",
+      "population_data": [
+        {"year": 2015, "population": 89126827},
+        {"year": 2016, "population": 90451525},
+        {"year": 2017, "population": 91713826},
+        {"year": 2018, "population": 93013341},
+        {"year": 2019, "population": 94312542},
+        {"year": 2020, "population": 95688681},
+        {"year": 2021, "population": 97147841}
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "population_data": [
+        {"year": 2015, "population": 92677000},
+        {"year": 2016, "population": 93640000},
+        {"year": 2017, "population": 94660000},
+        {"year": 2018, "population": 95540000},
+        {"year": 2019, "population": 96460000},
+        {"year": 2020, "population": 97340000},
+        {"year": 2021, "population": 98380000}
+      ]
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "population_data": [
+        {"year": 2015, "population": 77329986},
+        {"year": 2016, "population": 79375136},
+        {"year": 2017, "population": 81454679},
+        {"year": 2018, "population": 83799584},
+        {"year": 2019, "population": 86790567},
+        {"year": 2020, "population": 89561404},
+        {"year": 2021, "population": 93015347}
+      ]
+    },
+    {
+      "name": "Turkey",
+      "population_data": [
+        {"year": 2015, "population": 78665830},
+        {"year": 2016, "population": 79512426},
+        {"year": 2017, "population": 80745020},
+        {"year": 2018, "population": 82003882},
+        {"year": 2019, "population": 83252641},
+        {"year": 2020, "population": 84495243},
+        {"year": 2021, "population": 84339067}
+      ]
+    },
+    {
+      "name": "Iran",
+      "population_data": [
+        {"year": 2015, "population": 78262224},
+        {"year": 2016, "population": 79466084},
+        {"year": 2017, "population": 80673800},
+        {"year": 2018, "population": 81800269},
+        {"year": 2019, "population": 82827162},
+        {"year": 2020, "population": 83992949},
+        {"year": 2021, "population": 84275686}
+      ]
+    },
+    {
+      "name": "Germany",
+      "population_data": [
+        {"year": 2015, "population": 81413145},
+        {"year": 2016, "population": 81305856},
+        {"year": 2017, "population": 82114224},
+        {"year": 2018, "population": 82293457},
+        {"year": 2019, "population": 83019213},
+        {"year": 2020, "population": 83132799},
+        {"year": 2021, "population": 83240525}
+      ]
+    },
+    {
+      "name": "Thailand",
+      "population_data": [
+        {"year": 2015, "population": 68297547},
+        {"year": 2016, "population": 68863514},
+        {"year": 2017, "population": 69428524},
+        {"year": 2018, "population": 69979978},
+        {"year": 2019, "population": 70511971},
+        {"year": 2020, "population": 71024334},
+        {"year": 2021, "population": 71518549}
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "population_data": [
+        {"year": 2015, "population": 65611593},
+        {"year": 2016, "population": 65648100},
+        {"year": 2017, "population": 65788545},
+        {"year": 2018, "population": 66058859},
+        {"year": 2019, "population": 66460344},
+        {"year": 2020, "population": 66834405},
+        {"year": 2021, "population": 67116492}
+      ]
+    },
+    {
+      "name": "France",
+      "population_data": [
+        {"year": 2015, "population": 66638386},
+        {"year": 2016, "population": 66865144},
+        {"year": 2017, "population": 67064360},
+        {"year": 2018, "population": 67221943},
+        {"year": 2019, "population": 67391582},
+        {"year": 2020, "population": 67582141},
+        {"year": 2021, "population": 67828122}
+      ]
+    },
+    {
+      "name": "Italy",
+      "population_data": [
+        {"year": 2015, "population": 60536709},
+        {"year": 2016, "population": 60627498},
+        {"year": 2017, "population": 60599936},
+        {"year": 2018, "population": 60421760},
+        {"year": 2019, "population": 60297396},
+        {"year": 2020, "population": 60367453},
+        {"year": 2021, "population": 60461826}
+      ]
+    },
+    {
+      "name": "South Africa",
+      "population_data": [
+        {"year": 2015, "population": 55386367},
+        {"year": 2016, "population": 56203654},
+        {"year": 2017, "population": 57000451},
+        {"year": 2018, "population": 57779622},
+        {"year": 2019, "population": 58558270},
+        {"year": 2020, "population": 59308690},
+        {"year": 2021, "population": 60041975}
+      ]
+    }
+  ]
